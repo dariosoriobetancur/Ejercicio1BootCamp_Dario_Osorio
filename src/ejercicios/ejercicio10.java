@@ -1,15 +1,15 @@
 package ejercicios;
 
 public class ejercicio10 {
+    /*
+      10. Factorial de un número
+    	Descripción: Dado el número a = 6,
+    	calcula su factorial. El factorial de un número
+    	se obtiene multiplicando todos los números
+    	desde 1 hasta el número dado.
 
-/*  Factorial de un número
-*	Descripción: Dado el número a = 6,
-*   calcula su factorial.
-*   El factorial de un número se obtiene multiplicando
-*   todos los números desde 1 hasta el número dado.
-*
-*	Variables: a = 6.
-*/
+	    Variables: a = 6.
+     */
 
 
         public static void main(String[] args) {
