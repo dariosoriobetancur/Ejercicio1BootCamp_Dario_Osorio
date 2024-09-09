@@ -18,10 +18,4 @@ public class ejercicio2 {
         int producto = a * b;
         System.out.println("la multiplicación de a + b :  "+ producto);
     }
-
-
-
-
-
-
 }

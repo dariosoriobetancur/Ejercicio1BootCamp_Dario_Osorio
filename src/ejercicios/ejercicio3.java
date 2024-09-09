@@ -1,6 +1,5 @@
 package ejercicios;
-
-public class ejercicio3 {
+ public class ejercicio3 {
 
     /*. Número par o impar
     *•	Descripción: Dado el número a = 15,
@@ -11,6 +10,11 @@ public class ejercicio3 {
 
     public static void main(String[] args) {
 
-    }
-
-}
+                  int a = 15;
+        //  Muestra si es o no par o impar.
+            if (a % 2 == 0) {
+            System.out.println(a + " es un número par.");
+            } else {
+            System.out.println(a + " es un número impar.");
+              }
+            }
