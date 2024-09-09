@@ -14,4 +14,16 @@ public class ejercicios14 {
 
         int a = 45;
         int b = a;
-
+        String binario = "";
+        while (b > 0) {
+            if (Math.round(b % 2) == 0) {
+                binario = "0" + binario;
+            } else {
+                binario = "1" + binario;
+            }
+            b =  Math.round(b/2);
+            System.out.println(binario);
+        }
+        System.out.println("El binario de " + a + " es " + binario );
+    }
+}

@@ -21,5 +21,6 @@ public class ejercicios16 {
         }
         System.out.println("Sumatoria de los dígitos " + a + " es: " + sumaDigito);
     }
+    
 }
 }
