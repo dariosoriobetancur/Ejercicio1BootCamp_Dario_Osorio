@@ -2,7 +2,6 @@ package ejercicios;
 
 public class ejercicios11 {
 
-    public static void main(String[] args) {
         /*
            11. Fibonacci
             Descripción: Genera los primeros N = 10 números de la secuencia de Fibonacci,
@@ -12,7 +11,9 @@ public class ejercicios11 {
             Variables: N = 10.
          */
 
-        int anterior1 = 0;
+        public static void main(String[] args) {
+
+            int anterior1 = 0;
         int anterior2 = 1;
         int N = 10;
         int paso = 0;

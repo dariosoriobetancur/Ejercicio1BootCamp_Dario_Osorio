@@ -2,7 +2,6 @@ package ejercicios;
 
 public class ejercicios12 {
 
-    public static void main(String[] args) {
         /*
           12. Inversión de un número
             Descripción: Dado el número a = 54321,
@@ -10,6 +9,8 @@ public class ejercicios12 {
 
             Variables: a = 54321.
          */
+
+        public static void main(String[] args) {
 
         int a = 54321;
         String numeroString = Integer.toString(a);

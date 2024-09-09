@@ -11,7 +11,6 @@ public class ejercicio10 {
 	    Variables: a = 6.
      */
 
-
         public static void main(String[] args) {
             int numero = 6;
             int factorial = 1;
